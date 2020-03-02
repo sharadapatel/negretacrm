@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11665" started-at="2020-03-01T15:32:08Z" finished-at="2020-03-01T15:32:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11665" started-at="2020-03-01T15:32:08Z" finished-at="2020-03-01T15:32:20Z">
+      <class name="negretacrm.Demo1">
+        <test-method status="PASS" signature="launch()[pri:0, instance:negretacrm.Demo1@be83e4]" name="launch" duration-ms="11597" started-at="2020-03-01T21:02:08Z" finished-at="2020-03-01T21:02:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- negretacrm.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
